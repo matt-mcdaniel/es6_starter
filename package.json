@@ -1,0 +1,19 @@
+{
+  "name": "ES2015_Boilerplate",
+  "version": "1.0.0",
+  "description": "A basic setup using ES2015 and Webpack.",
+  "scripts": {
+    "serve": "webpack-dev-server -d"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-loader": "^6.0.1",
+    "babel-runtime": "^5.6.15",
+    "html-loader": "^0.3.0",
+    "node-libs-browser": "^0.5.3",
+    "node-sass": "^3.4.1",
+    "sass-loader": "^3.1.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
